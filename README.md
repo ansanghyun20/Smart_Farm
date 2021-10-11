@@ -27,7 +27,7 @@
 
 
 <img width="1037" alt="image" src="https://user-images.githubusercontent.com/62547169/132178372-ca51c89b-5a2d-45c3-8dce-b4ff1c81e3ca.png">
-
+ 
 
 - 정면에서 왼쪽 위 (냉각 시스템)
     - 정면에서 오른쪽 위 (환풍 시스템)
